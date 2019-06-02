@@ -45,7 +45,9 @@
 프로토타입으로 방 전구가 아니라 라즈베리파이에 연결된 LED에 대해 조작을 할 것입니다.
 
 **오늘 당장 할 수 있는 것**
-- [x] 켜기/끄기 버튼과 전구 이미지가 있는 Front page를 vue.js로 구현한다.
+- [x] 켜기/끄기 버튼과 전구 이미지가 있는 Front page를 vue.js로 구현한다.<br>
+Result : Home.vue 파일에 구현하였습니다.
+https://github.com/luckysoo3516/SwitchAnywhere/blob/master/web-client/src/views/Home.vue
 
 **구현 할 순서**
 - [ ] 라즈베리파이에 들어갈 프로그램 구현
@@ -64,3 +66,5 @@ Club mode : 미친듯이 껐다 켜졌다 반복
 	- LED 조작 함수를 없애고 스위치 조작 함수로 바꾼다.
 
 6일간 웹서버를 배포하는 것 까지 구현하는 것을 목표로 합니다.
+
+
