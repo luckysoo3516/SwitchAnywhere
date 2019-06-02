@@ -46,8 +46,7 @@
 
 **오늘 당장 할 수 있는 것**
 - [x] 켜기/끄기 버튼과 전구 이미지가 있는 Front page를 vue.js로 구현한다.<br>
-Result : Home.vue 파일에 구현하였습니다.
-https://github.com/luckysoo3516/SwitchAnywhere/blob/master/web-client/src/views/Home.vue
+Result : Home.vue 파일에 구현하였습니다.(https://github.com/luckysoo3516/SwitchAnywhere/blob/master/web-client/src/views/Home.vue)
 
 **구현 할 순서**
 - [ ] 라즈베리파이에 들어갈 프로그램 구현
